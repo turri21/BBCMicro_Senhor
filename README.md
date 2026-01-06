@@ -1,3 +1,8 @@
+-=(BBCMicro_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # BBC Micro B/Master 128K for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 This is the port of [BeebFpga](https://github.com/hoglet67/BeebFpga) by David Banks, Mike Sterling.
